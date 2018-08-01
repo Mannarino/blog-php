@@ -1,0 +1,12 @@
+{
+    "name": "moises/blogfinal",
+    "authors": [
+        {
+            "name": "moises",
+            "email": "frontend.moises@gmail.com"
+        }
+    ],
+    "require": {
+        "phroute/phroute": "^2.1"
+    }
+}
